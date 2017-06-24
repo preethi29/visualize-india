@@ -1,0 +1,15 @@
+{
+  "name": "visualize-india",
+  "version": "1.0.0",
+  "description": "India stats visualized using D3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "d3",
+    "india"
+  ],
+  "author": "Preethi",
+  "license": "ISC"
+}
