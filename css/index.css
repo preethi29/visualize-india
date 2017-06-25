@@ -1,0 +1,28 @@
+.twoWheelers {
+    fill: none;
+    stroke: #0d9b46;
+    stroke-width: 2px;
+}
+.cars {
+    fill: none;
+    stroke: steelblue;
+    stroke-width: 2px;
+}
+
+.buses {
+    fill: none;
+    stroke: #b4112e;
+    stroke-width: 2px;
+}
+
+.goods {
+    fill: none;
+    stroke: #a303ff;
+    stroke-width: 2px;
+}
+
+.others {
+    fill: none;
+    stroke: grey;
+    stroke-width: 2px;
+}
